@@ -50,7 +50,6 @@ I'm a passionate **Junior Developer** growing in the world of **web development*
 ## 🔗 Let’s Connect
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-link)
-[![Portfolio](https://my-portfolio-cyan-alpha-75.vercel.app/)]
 [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
 
 ---
