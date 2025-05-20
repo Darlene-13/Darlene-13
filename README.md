@@ -42,9 +42,9 @@ I'm a passionate **Junior Developer** growing in the world of **web development*
 
 ## 📈 GitHub Stats
 
-![Darlene's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Darlene-13&show_icons=true&theme=tokyonight)
+![Darlene's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Darlene-13&show_icons=true&theme=tokyonight) 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Darlene-13&layout=compact&theme=tokyonight)
-
+![GitHub Streak](https://streak-stats.demolab.com/?user=Darlene-13&theme=dark&hide_border=true)  
 ---
 
 ## 🔗 Let’s Connect
