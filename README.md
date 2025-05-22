@@ -8,7 +8,7 @@ I'm a passionate **Junior Developer** growing in the world of **web development*
 
 ## 🚀 About Me
 
-- 🔭 Currently exploring: **React**, **Django**, and **Flask**
+- 🔭 Currently exploring: **React**, **Django**, and **Python for Backend**
 - 🌱 Learning: **Data structures**, **REST APIs**, and **Full Stack Development**
 - 💬 I like working on projects that solve real-world problems through code
 - ✨ Always improving — one repo at a time!
