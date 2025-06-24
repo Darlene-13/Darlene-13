@@ -1,5 +1,5 @@
-# 👋 Hey there, I’m Darlene Nasimiyu
-
+# 👋 Hey there, I’m Darlene Wendie Nasimiyu
+I fell in love with Backend .....naming variables sucks
 I'm a passionate **Junior Developer** growing in the world of **web development**, **backend engineering**, and **data science**. 
 I love building tech that’s clean, impactful, and user-friendly.
 
