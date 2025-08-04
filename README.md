@@ -1,8 +1,8 @@
 # 👋 Hey there, I’m Darlene Wendie Nasimiyu
 
-### I fell in love with Backend .....naming variables sucks
+### Fail Early fail first, fail often but do it
 
-### I'm a passionate **Junior Developer** growing in the world of **web development**, **backend engineering**, and **data science**. 
+### I'm a passionate **Backend software engineer** growing in the world of **software engineering**, **data science**, and **machine learning**. 
 ### I love building tech that’s clean, impactful, and user-friendly.
 
 [![GitHub followers](https://img.shields.io/github/followers/Darlene-13?label=Follow&style=social)](https://github.com/Darlene-13)
@@ -11,10 +11,11 @@
 
 ## 🚀 About Me
 
-- 🔭 Currently exploring: **React**, **Django**, and **Python for Backend**
-- 🌱 Learning: **Data structures**, **REST APIs**, and **Full Stack Development**
+- 🔭 Currently exploring: **nodejs**, **Django**, and **Python for Backend and Python Data science**
+- 🌱 Learning: **Data structures**, **REST APIs**, and ** Algorithms**
 - 💬 I like working on projects that solve real-world problems through code
 - ✨ Always improving — one repo at a time!
+-  Hit me up for collaborations
 
 ---
 
@@ -40,6 +41,7 @@
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=for-the-badge&logo=jupyter)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
 ---
 
