@@ -1,5 +1,5 @@
 # 👋 Hey there, I’m Darlene Wendie Nasimiyu
-
+### Favorite Quote.....
 ### Fail Early fail first, fail often but do it
 
 ### I'm a passionate **Backend software engineer** growing in the world of **software engineering**, **data science**, and **machine learning**. 
