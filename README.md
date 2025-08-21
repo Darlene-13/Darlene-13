@@ -2,7 +2,8 @@
 
 - Mantra: Fail Early fail first, fail often but do it
 
-- I'm a passionate **Software engineer** growing in the world of **software engineering**, **data science**, and **machine learning**. 
+- I'm a passionate **Software engineer** growing in the world of **software engineering**, **data science**, and **machine learning**.
+- Let's talk code
 
 [![GitHub followers](https://img.shields.io/github/followers/Darlene-13?label=Follow&style=social)](https://github.com/Darlene-13)
 
