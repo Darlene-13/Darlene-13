@@ -4,18 +4,14 @@
 
 - I'm a passionate **Software engineer** growing in the world of **software engineering**, **data science**, and **machine learning**.
 - Let's talk code
-
-[![GitHub followers](https://img.shields.io/github/followers/Darlene-13?label=Follow&style=social)](https://github.com/Darlene-13)
-
 ---
 
 ## 🚀 About Me
 
 - 🔭 Currently exploring: **nodejs**, **Django**, and **Python for Backend and Python Data science**
-- 🌱 Learning: **Data structures**, **REST APIs**, and ** Algorithms**
+- 🌱 Learning: **Data structures**, **React**, and ** Algorithms**
 - 💬 I like working on projects that solve real-world problems through code
 - ✨ Always improving — one repo at a time!
--  Hit me up for collaborations
 
 ---
 
