@@ -1,9 +1,8 @@
 # 👋 Hey there, I’m Darlene Wendie Nasimiyu
-### Favorite Quote.....
-### Fail Early fail first, fail often but do it
 
-### I'm a passionate **Backend software engineer** growing in the world of **software engineering**, **data science**, and **machine learning**. 
-### I love building tech that’s clean, impactful, and user-friendly.
+- Mantra: Fail Early fail first, fail often but do it
+
+- I'm a passionate **Software engineer** growing in the world of **software engineering**, **data science**, and **machine learning**. 
 
 [![GitHub followers](https://img.shields.io/github/followers/Darlene-13?label=Follow&style=social)](https://github.com/Darlene-13)
 
