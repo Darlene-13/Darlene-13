@@ -1,7 +1,7 @@
 # 👋 Hey there, I’m Darlene Wendie Nasimiyu
 
 - Mantra: Fail Early fail first, fail often but do it
-
+- Every expert was once a beginner. Every pro was once an amateur. Every icon was once an unknown
 - I'm a passionate **Software engineer** growing in the world of **software engineering**, **data science**, and **machine learning**.
 - Let's talk code
 ---
