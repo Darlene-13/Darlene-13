@@ -1,4 +1,4 @@
-# 👋 Hey there, I’m Darlene Wendie Nasimiyu.
+# 👋 Hey there, I’m Darlene Wendie Nasimiyu
 
 - Mantra: Fail Early fail first, fail often but do it
 - Every expert was once a beginner. Every pro was once an amateur. Every icon was once an unknown
