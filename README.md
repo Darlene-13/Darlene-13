@@ -10,7 +10,7 @@
 
 - 🔭 Currently exploring: **nodejs**, **Django**, and **Python for Backend and Python Data science**
 - 🌱 Learning: **Data structures**, **React**, and ** Algorithms**
-- 💬 I like working on projects that solve real-world problems through code
+- 💬 I like working on projects that solve real-world problems through code..
 - ✨ Always improving — one repo at a time!
 
 ---
