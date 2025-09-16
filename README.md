@@ -8,7 +8,7 @@
 
 ## 🚀 About Me
 
-- 🔭 Currently exploring: **nodejs**, **Django**, and **Python for Backend and Python Data science**
+- 🔭 Currently exploring: **java**, **Django**, and **Python for Backend and Python Data science and machine learning**
 - 🌱 Learning: **Data structures**, **React**, and ** Algorithms**
 - 💬 I like working on projects that solve real-world problems through code..
 - ✨ Always improving — one repo at a time!
