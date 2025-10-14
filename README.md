@@ -26,8 +26,9 @@
 
 **Frameworks & Tools**
 
-![React](https://img.shields.io/badge/-React-20232A?style=for-the-badge&logo=react)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.1.5-ED8B00?color=808080&labelColor=6db33f&logo=Spring+Boot&logoColor=white&style=for-the-badge)
 ![Django](https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?logo=fastapi&style=for-the-badge)
 ![Flask](https://img.shields.io/badge/-Flask-000000?style=for-the-badge&logo=flask)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VSCode-007ACC?style=for-the-badge&logo=visual-studio-code)
