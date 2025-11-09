@@ -2,7 +2,7 @@
 
 - Mantra: Fail Early fail first, fail often but do it
 - Every expert was once a beginner. Every pro was once an amateur. Every icon was once an unknown
-- I'm a passionate **Software engineer** growing in the world of **backend engineering**, **data science**, and **machine learning**.
+- I'm a passionate **Machine Learning || Artificial Intelligence Engineer || Backend Engineer (Python & Java) ** growing in the world of **backend engineering**, **Machine Learning**, and **Smart Manufacturing**.
 - Let's talk code
 ---
 
