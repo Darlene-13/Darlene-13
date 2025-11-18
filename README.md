@@ -2,7 +2,7 @@
 
 - Mantra: Fail Early fail first, fail often but do it
 - Every expert was once a beginner. Every pro was once an amateur. Every icon was once an unknown
-- I'm a passionate **Machine Learning || Artificial Intelligence Engineer || Backend Engineer (Python & Java) ** growing in the world of **backend engineering**, **Machine Learning**, and **Smart Manufacturing**.
+- I'm a passionate Machine Learning || Artificial Intelligence Engineer || Backend Engineer (Python & Java) growing in the world of **backend engineering**, **Machine Learning**, and **Smart Manufacturing**.
 - Let's talk code
 ---
 
@@ -11,7 +11,6 @@
 - 🔭 Currently exploring: **java**, **Django**, and **Python and Java for Backend and Python Data science and machine learning**
 - 🌱 Learning: **Data structures**, **Springboot**, and ** Algorithms**
 - 💬 I like working on projects that solve real-world problems through code..
-- ✨ Always improving — one repo at a time!
 
 ---
 
