@@ -2,6 +2,7 @@
 - Backend Engineer
 - Machine Learning Engineer
 - Process Engineer
+- Embedded  systems.
 - Where Math meets logic, math becomes code.
 - Let's talk code
 ---
