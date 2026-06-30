@@ -1,7 +1,7 @@
 ### 👋 Hey there, I’m Darlene Wendie Nasimiyu
-- AI Engineer
-- AI researcher
-- Java, Python, C++
+- Software Engineer
+- AI Engineer and researcher
+- Java, Python, C++, JavaScript
 - Embedded  systems.
 - Where Math meets logic, math becomes code.
 - Let's talk code
