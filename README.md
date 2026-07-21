@@ -8,8 +8,5 @@
 - I deploy ML models for fun
 
 - Currently exploring Vector embeddings in Agentic AI and AI engineering.
----
-> *"Strive not to be a success, but rather to be of value." – Albert Einstein*
----
 
 Thanks for visiting my GitHub! 😊
